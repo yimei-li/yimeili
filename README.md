@@ -45,8 +45,7 @@ Research area: Computational Biology | Applied Math
 
 - **_Energy consumption and economic growth in China:_** 
     - Divided China into four districts via the vector autoregression model.
-    - Performed a multivariate causality framework of the relationship between energy consumption and economic
-    - growth in China using Markov chain and Granger causality test.
+    - Performed a multivariate causality framework of the relationship between energy consumption and economic growth in China using Markov chain and Granger causality test.
     - Proved the causal relations among the four districts (one-way, two-way, short-term, long-term).
     - Published a paper on Sustainable Energy and Environmental Protection
 <br><br>
