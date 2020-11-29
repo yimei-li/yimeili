@@ -2,7 +2,8 @@
 
 # Yimei Li
 
-_Research Assistant at Kim Lab, University of Pennsylvania, United States _ <br>
+**Research Assistant** @ [Kim Lab, University of Pennsylvania](https://kim.bio.upenn.edu/)  <br>
+Research area: Evolutionary and Molecular Biology of the Cell, Computational/Mathematical Biology
 
 [Email](mailto:liyimei@sas.upenn.edu) / [Website](https://yimeili.tech/) / [LinkedIn](https://www.linkedin.com/in/yimei-li-510b52a4/) / [GitHub](https://github.com/yimei-li) / [Twitter](https://twitter.com/yl_yimei) 
 
