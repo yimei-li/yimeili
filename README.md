@@ -1,6 +1,4 @@
-theme: jekyll-theme-minimal
-title: 💻✒️📄🌟
-description: Yimei Li's CV
+
 
 # Yimei Li
 
