@@ -77,7 +77,10 @@ _Research Assistant at Kim Lab, University of Pennsylvania, United States _ <br>
 ## Education
 
 **Drexel University** B.S. Major: Mathematics | Minors: Computer Science, Bioinformatics <br>
+
     - GPA major 3.8/4.0 (general 3.66/4.0), GRE Math 170/170, A.J. Drexel Scholarship; Drexel Grant
+    <br>
 **University of Pennsylvania** Master in Environmental Science <br>
+    
     - GPA major 3.73/4.0  
     
