@@ -23,15 +23,15 @@ _Research Assistant at Kim Lab, University of Pennsylvania, United States _ <br>
 
 **Research Assistant** @ [Lawrence Berkeley National Laboratory (Berkeley Lab)](https://www.lbl.gov/) _(July 2017 - Aug 2017)_ <br>
 
-    - Analyzed China’s nonrenewable electricity utilities to the renewable portfolio standards and feed-in tariff scheme.
-    - Provided a report of China’s 2017 new policy on Green Certificate.
+- Analyzed China’s nonrenewable electricity utilities to the renewable portfolio standards and feed-in tariff scheme.
+- Provided a report of China’s 2017 new policy on Green Certificate.
 
 <br><br>
 
 **Research Assistant** @ [International Green Development Partnership (iGDP/GDTP)](http://www.igdp.cn/green-development-think-tank-partnership/) _(Sep 2015 - Jan 2016)_ <br>
 
-    - Analyzed China’s nonrenewable electricity utilities to the renewable portfolio standards and feed-in tariff scheme.
-    - Provided a report of China’s 2017 new policy on Green Certificate.
+- Analyzed China’s nonrenewable electricity utilities to the renewable portfolio standards and feed-in tariff scheme.
+- Provided a report of China’s 2017 new policy on Green Certificate.
 
 <br><br>
 
@@ -52,20 +52,20 @@ _Research Assistant at Kim Lab, University of Pennsylvania, United States _ <br>
 
 **Teaching Assistant** @ [Energy & It's Impacts, graduate, University of Pennsylvania] _(Sep 2017 - Dec 2017)_ <br>
 
-    - Graded assignments, facilitated class participation, and set up Canvas.
-    - Hold one-on-one tutoring hours and recitation sessions.
+- Graded assignments, facilitated class participation, and set up Canvas.
+- Hold one-on-one tutoring hours and recitation sessions.
     
 <br><br>
 
 
 ## PUBLICATION & PROJECTS
-    - C.elegans Phylogenetic Tree Analysis and Reconstruction, ongoing _(Aug 2019)_ <br>
-    - C.elegans & C.briggsae Simulation (Designed Rshiny Apps), ongoing _(Sep 2020)_ <br>
-    - Projecting single-cell transcriptomics data onto a reference atlas, ongoing _(Sep 2020)_ <br>
-    - Emergence of SARS-CoV-2 through recombination, ongoing _(Mar 2020)_ <br>
-    - Microgrids: A Policy Recommendation for the Chinese Government, Master Thesis	_(May 2018_ <br>
-    - The influence of climate change on CO2 emissions: an empirical estimation based on Chinese provincial panel data published by Journal of Cleaner Production _(May 2016)_ <br>
-    - The Causal Link between Electric Power Consumption and Infrastructure Investment in Electricity with Markov Switching Analysis published by the 8th International Conference on Sustainable Energy and Environmental Protection _(SEEP2015)_ <br> 
+- C.elegans Phylogenetic Tree Analysis and Reconstruction, ongoing _(Aug 2019)_ <br>
+- C.elegans & C.briggsae Simulation (Designed Rshiny Apps), ongoing _(Sep 2020)_ <br>
+- Projecting single-cell transcriptomics data onto a reference atlas, ongoing _(Sep 2020)_ <br>
+- Emergence of SARS-CoV-2 through recombination, ongoing _(Mar 2020)_ <br>
+- Microgrids: A Policy Recommendation for the Chinese Government, Master Thesis	_(May 2018_ <br>
+- The influence of climate change on CO2 emissions: an empirical estimation based on Chinese provincial panel data published by Journal of Cleaner Production _(May 2016)_ <br>
+- The Causal Link between Electric Power Consumption and Infrastructure Investment in Electricity with Markov Switching Analysis published by the 8th International Conference on Sustainable Energy and Environmental Protection _(SEEP2015)_ <br> 
 
 
 ## SKILLS
@@ -79,7 +79,7 @@ _Research Assistant at Kim Lab, University of Pennsylvania, United States _ <br>
 **Drexel University** B.S. Major: Mathematics | Minors: Computer Science, Bioinformatics <br>
 
     - GPA major 3.8/4.0 (general 3.66/4.0), GRE Math 170/170, A.J. Drexel Scholarship; Drexel Grant
-    <br>
+    
 **University of Pennsylvania** Master in Environmental Science <br>
     
     - GPA major 3.73/4.0  
