@@ -51,7 +51,8 @@ Research area: Computational Biology | Applied Math
     - Published a paper on Sustainable Energy and Environmental Protection
 <br><br>
 
-**Teaching Assistant** Energy & It's Impacts, graduate, University of Pennsylvania _(Sep 2017 - Dec 2017)_ <br>
+**Teaching Assistant** <br>
+Energy & It's Impacts, graduate, University of Pennsylvania _(Sep 2017 - Dec 2017)_ <br>
 
 - Graded assignments, facilitated class participation, and set up Canvas.
 - Hold one-on-one tutoring hours and recitation sessions.
@@ -77,12 +78,12 @@ Research area: Computational Biology | Applied Math
 
 ## Education
 
-**Drexel University** 
+**Drexel University** <br>
 B.S. Major: Mathematics | Minors: Computer Science, Bioinformatics <br>
 
 - GPA major 3.8/4.0 (general 3.66/4.0), A.J. Drexel Scholarship; Drexel Grant
     
-**University of Pennsylvania** 
+**University of Pennsylvania** <br>
 Master in Environmental Science <br>
 
 - GPA major 3.73/4.0  
