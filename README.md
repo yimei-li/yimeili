@@ -51,7 +51,7 @@ Research area: Computational Biology | Applied Math
     - Published a paper on Sustainable Energy and Environmental Protection
 <br><br>
 
-**Teaching Assistant** @ [Energy & It's Impacts, graduate, University of Pennsylvania] _(Sep 2017 - Dec 2017)_ <br>
+**Teaching Assistant** Energy & It's Impacts, graduate, University of Pennsylvania _(Sep 2017 - Dec 2017)_ <br>
 
 - Graded assignments, facilitated class participation, and set up Canvas.
 - Hold one-on-one tutoring hours and recitation sessions.
