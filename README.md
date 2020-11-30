@@ -17,9 +17,10 @@ Research area: Computational Biology | Applied Math
     - Proposed linear programming algorithm for feature engineering to improve the model’s performance.
 
 - **_Simulation Project:_** 
-    - Adopted and Evaluated over 50 genomic lineage tree construction algorithms to single-cell RNAseq data.
-    - Developed a statistical learning algorithm to construct a lineage tree based on single-cell RNAseq data.
-    - Proposed linear programming algorithm for feature engineering to improve the model’s performance.
+    - Developed a simulation program to generate Single-cell RNAseq data with reliable lineage annotation.
+    - Implemented metrics-based unsupervised learning to exam the simulation quality.
+    - Design an R Shiny Application for usability and visualization of the algorithm.
+
 
 <br>
 
@@ -32,8 +33,7 @@ Research area: Computational Biology | Applied Math
 
 **Research Assistant** @ [International Green Development Partnership (iGDP/GDTP)](http://www.igdp.cn/green-development-think-tank-partnership/) _(Sep 2015 - Jan 2016)_ <br>
 
-- Analyzed China’s nonrenewable electricity utilities to the renewable portfolio standards and feed-in tariff scheme.
-- Provided a report of China’s 2017 new policy on Green Certificate.
+- Implemented climate change and public health-related projects, including writing information illustrations, regular briefings, WeChat and forum articles for diversified demonstration of research findings.
 
 <br>
 
