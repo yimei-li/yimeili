@@ -63,7 +63,7 @@ Energy & It's Impacts, graduate, University of Pennsylvania _(Sep 2017 - Dec 201
 - C.elegans & C.briggsae Simulation (Designed Rshiny Apps), ongoing _(Sep 2020)_ <br>
 - Projecting single-cell transcriptomics data onto a reference atlas, ongoing _(Sep 2020)_ <br>
 - Emergence of SARS-CoV-2 through recombination, ongoing _(Mar 2020)_ <br>
-- Microgrids: A Policy Recommendation for the Chinese Government, Master Thesis	_(May 2018_ <br>
+- Microgrids: A Policy Recommendation for the Chinese Government, Master Thesis	_(May 2018)_ <br>
 - The influence of climate change on CO2 emissions: an empirical estimation based on Chinese provincial panel data published by Journal of Cleaner Production _(May 2016)_ <br>
 - The Causal Link between Electric Power Consumption and Infrastructure Investment in Electricity with Markov Switching Analysis published by the 8th International Conference on Sustainable Energy and Environmental Protection _(SEEP2015)_ <br> 
 
