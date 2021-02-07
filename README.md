@@ -4,7 +4,7 @@
 
 **Research Assistant** @ [Kim Lab, University of Pennsylvania](https://kim.bio.upenn.edu/)  <br>
 **Research area: Computational Biology | Mathematical Biology**<br>
-Major: Math | Minor: Computer Science | Bioinformatics
+Major: Math | Minor: Computer Science | Minor: Bioinformatics
 
 [Email](mailto:liyimei@sas.upenn.edu) / [Website](https://yimei-li.github.io/yimeili/) / [LinkedIn](https://www.linkedin.com/in/yimei-li-510b52a4/) / [GitHub](https://github.com/yimei-li) / [Twitter](https://twitter.com/yl_yimei) / [Personal Blog](https://yimeiliblog.wordpress.com/)
 <br><br>
