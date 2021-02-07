@@ -11,6 +11,7 @@ Research area: Computational Biology | Applied Math
 ## RESEARCH EXPERIENCE
 
 **Research Assistant | Genomic Data Analyst** @ [Kim Lab, University of Pennsylvania](https://kim.bio.upenn.edu/) _(Aug 2019 - Present)_ <br>
+**Advisor : [Dr. Junhyong Kim](https://www.bio.upenn.edu/people/junhyong-kim)
 - **_Phylogeny Project:_** 
     - Adopted and Evaluated over 50 genomic lineage tree construction algorithms to single-cell RNAseq data.
     - Developed a statistical learning algorithm to construct a lineage tree based on single-cell RNAseq data.
