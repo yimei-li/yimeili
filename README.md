@@ -82,7 +82,7 @@ Energy & It's Impacts, graduate, University of Pennsylvania _(Sep 2017 - Dec 201
 **Drexel University** <br>
 B.S. Major: Mathematics | Minors: Computer Science, Bioinformatics <br>
 
-- GPA major 3.8/4.0 (general 3.68/4.0), A.J. Drexel Scholarship; Drexel Grant
+- GPA major 3.8/4.0 (general 3.71/4.0), A.J. Drexel Scholarship; Drexel Grant
     
 **University of Pennsylvania** <br>
 Master in Environmental Science <br>
