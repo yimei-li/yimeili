@@ -72,7 +72,7 @@ Energy & It's Impacts, graduate, University of Pennsylvania _(Sep 2017 - Dec 201
 <br>
 
 ## SKILLS
-  - **_Programming:_**  Python, R, WinBUGS, INLA, MATLAB, LaTeX, Bash script (Awk, Perl), C, Java, SAS,Stata
+  - **_Programming:_**  Python, R, WinBUGS, INLA, MATLAB, LaTeX, Bash script (Awk, Perl), C, Java, SAS, Stata,SQL/PSQL
   - **_Language:_**  Chinese (Native), English (Fluent), German (Proficient), French (Reading)
     <br><br>
 
