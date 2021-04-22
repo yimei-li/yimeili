@@ -89,3 +89,9 @@ Master in Environmental Science <br>
 
 - GPA major 3.73/4.0  
     
+## Activities
+
+- Triathlete. Attended Penn 2021 Triathlon competition.
+- CPR Certified, by the American Red Cross (ARC).
+
+
