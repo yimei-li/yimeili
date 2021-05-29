@@ -82,7 +82,7 @@ Energy & It's Impacts, graduate, University of Pennsylvania _(Sep 2017 - Dec 201
 **Drexel University** <br>
 B.S. Major: Mathematics | Minors: Computer Science, Bioinformatics <br>
 
-- GPA math major 3.81/4.0 (general 3.71/4.0), A.J. Drexel Scholarship; Drexel Grant; **Frank H. M. Williams Endowed Scholarship in Mathematics awarded in recognition of academic achievement in Mathematics.**<br>
+- GPA math major 3.81/4.0 (general 3.71/4.0), A.J. Drexel Scholarship; Drexel Grant; **Frank H. M. Williams Endowed Scholarship in Mathematics** awarded in recognition of academic achievement in Mathematics.
 
     
 **University of Pennsylvania** <br>
