@@ -74,6 +74,7 @@ Energy & It's Impacts, graduate, University of Pennsylvania _(Sep 2017 - Dec 201
 ## SKILLS
   - **_Programming:_**  Python, R, WinBUGS, INLA, MATLAB, LaTeX, Bash script (Awk, Perl), C, Java, SAS, Stata,SQL/PSQL
   - **_Language:_**  Chinese (Native), English (Fluent), German (Proficient), French (Reading)
+  - **_Certificate:_** [Complete Tensorflow 2 and Keras Deep Learning Bootcamp](https://www.udemy.com/certificate/UC-d1beae8d-83cf-42e3-8c59-a597371a74b0/), [NIS Server with NTP and autofs on CentOS linux 8 /RHEL 8](https://www.udemy.com/certificate/UC-dbf4764a-5667-4607-8d50-c88f576be6c5/)
     <br><br>
 
 
